@@ -1,6 +1,7 @@
 ### Hello, I'm Lorrust! 👋
 
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 🌠 I’m planning to study C#
-- 📃 I enjoy making side projects
+- 🌱 I'm a software engineering student
+- 🐍 Currently learning Python
+- 💻 Planning to land a job in the software industry
+- 🎮game Interested in game development
 - 😄 Pronouns: he/him
