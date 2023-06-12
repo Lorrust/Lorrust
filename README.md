@@ -1,4 +1,4 @@
-### Hello, I'm Lorrust! 👋
+### Hello, I'm Lucas! 👋
 
 - 🌱 I'm a software engineering student
 - 🐍 Currently learning Python
