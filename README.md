@@ -1,6 +1,6 @@
 # 🧪 Lucas Silva
 
-**`Digital Artificer`**
+**`Digital Artificer (Developer/Wordsmith)`**
 
 I'm a curiosity-driven developer fascinated by the possibilities of technology, as my passion lies in weaving dreams into code. I thrive on building from scratch, appreciating the opportunity to sculpt every line of code. I view the world of technology as a canvas, and I wield languages like brushes, in an attempt of crafting landscapes that push the boundaries of what is possible.
 
