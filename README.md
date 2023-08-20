@@ -18,3 +18,12 @@ I'm a curiosity-driven developer fascinated by the possibilities of technology, 
 <br/>
 
 #
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorrust&show_icons=true&theme=dracula)
+
+#
+
+<details>
+  <summary><h3>🌌 Lucas' Coding Voyage</summary>
+I embarked on my software journey as an inquisitive high school student, captivated by the intricate mechanics of gaming and the logic that surrounded them. With each passing year, my passion for creating experiences that others could enjoy grew stronger. I harnessed this drive to delve into new realms of knowledge, immersing myself in Arduino projects, electronic systems and block-based coding languages like Scratch. As my attention drifted towards the field of technology and digital craftsmanship, I found myself studying programming logic and fundamental coding syntaxes. Here, I discovered a world of orderliness, beautifully forged through systematic reasoning and logic. This path allowed me to merge my inherent creativity with the art of problem-solving, breathing life into dreams and concepts. Today, I'm pursuing a software engineering course at a respected university here in my region.
+</details>
