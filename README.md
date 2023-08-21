@@ -19,6 +19,8 @@ I'm a curiosity-driven developer fascinated by the possibilities of technology, 
 
 #
 
+### 📈 Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorrust&show_icons=true&theme=dracula)
 
 #
