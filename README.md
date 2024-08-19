@@ -22,8 +22,8 @@ I'm a curiosity-driven developer fascinated by the possibilities of technology, 
 ### 📈 Stats
 
 <div style="display: flex; flex-direction: row;">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lorrust&show_icons=true&hide_border=true&rank_icon=github&theme=material-palenight" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrust&layout=compact&card_width=320&hide_border=true&theme=material-palenight" />
+<img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=lorrust&show_icons=true&hide_border=true&rank_icon=github&theme=material-palenight" />
+<img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrust&layout=compact&card_width=320&hide_border=true&theme=material-palenight" />
 </div>
 
 #
