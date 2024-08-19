@@ -15,13 +15,19 @@ I'm a curiosity-driven developer fascinated by the possibilities of technology, 
 <img align="left" alt="Godot" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
 <img align="left" alt="Arduino" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="Canva" width=40px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-<br/>
+<br>
 
 #
 
 ### 📈 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorrust&show_icons=true&theme=material-palenight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lorrust&show_icons=true&theme=material-palenight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrust&layout=compact&theme=material-palenight" />
+</a>
+<br>
 
 #
 
